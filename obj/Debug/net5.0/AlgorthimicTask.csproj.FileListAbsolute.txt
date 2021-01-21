@@ -1,0 +1,16 @@
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.exe
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.deps.json
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.runtimeconfig.json
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.runtimeconfig.dev.json
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.dll
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\ref\AlgorthimicTask.dll
+C:\Users\balno\Desktop\AlgorthimicTask\bin\Debug\net5.0\AlgorthimicTask.pdb
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.csprojAssemblyReference.cache
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.AssemblyInfoInputs.cache
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.AssemblyInfo.cs
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.csproj.CoreCompileInputs.cache
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.dll
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\ref\AlgorthimicTask.dll
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.pdb
+C:\Users\balno\Desktop\AlgorthimicTask\obj\Debug\net5.0\AlgorthimicTask.genruntimeconfig.cache
